@@ -1,0 +1,43 @@
+country_code,country_name,latitude,longitude
+AF,Afghanistan,33.0,65.0
+AR,Argentina,-34.0,-64.0
+AU,Australia,-27.0,133.0
+BR,Brazil,-10.0,-55.0
+CA,Canada,60.0,-95.0
+CL,Chile,-30.0,-71.0
+CN,China,35.0,105.0
+CO,Colombia,4.0,-72.0
+CD,"Congo, Democratic Republic of the",0.0,25.0
+CG,"Congo, Republic of the",-1.0,15.0
+EC,Ecuador,-2.0,-77.5
+EG,Egypt,27.0,30.0
+FR,France,46.0,2.0
+DE,Germany,51.0,9.0
+IN,India,20.0,77.0
+ID,Indonesia,-5.0,120.0
+IT,Italy,42.83,12.83
+JP,Japan,36.0,138.0
+KE,Kenya,1.0,38.0
+KR,"Korea, Republic of",37.0,127.5
+MG,Madagascar,-20.0,47.0
+MX,Mexico,23.0,-102.0
+MN,Mongolia,46.0,105.0
+MA,Morocco,32.0,-5.0
+MZ,Mozambique,-18.25,35.0
+NP,Nepal,28.0,84.0
+NZ,New Zealand,-41.0,174.0
+NG,Nigeria,10.0,8.0
+NO,Norway,62.0,10.0
+PE,Peru,-10.0,-76.0
+PH,Philippines,13.0,122.0
+RU,Russia,60.0,100.0
+ZA,South Africa,-29.0,24.0
+ES,Spain,40.0,-4.0
+SE,Sweden,62.0,15.0
+TZ,"Tanzania, United Republic of",-6.0,35.0
+TH,Thailand,15.0,100.0
+TR,Turkey,39.0,35.0
+GB,United Kingdom,54.0,-2.0
+US,United States,38.0,-97.0
+UY,Uruguay,-33.0,-56.0
+VE,Venezuela,8.0,-66.0

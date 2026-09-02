@@ -1,0 +1,7 @@
+Alan Mathison Turing was a British pioneering computer scientist,
+mathematician, logician, cryptanalyst,
+philosopher, mathematical biologist, and
+marathon and ultra distance runner.
+Turing is widely considered to be the father
+of theoretical computer science and
+artificial intelligence.
